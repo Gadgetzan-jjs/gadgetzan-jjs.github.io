@@ -1,0 +1,14 @@
+avatar:
+  url:  https://s2.loli.net/2023/11/24/I2mXQ9kcWipaxjn.jpg # 你的头像图片地址
+  rounded: true
+  opacity: 1
+banner:
+  enable: true
+  title: 希希笠安
+  border: true
+  cloud:
+    enable: true
+    color: white
+  go_down:
+    enable: true
+    icon: ri:arrow-down-s-line
